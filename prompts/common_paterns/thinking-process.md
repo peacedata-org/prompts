@@ -1,7 +1,7 @@
 ---
 trigger: always_on
 alwaysApply: true
-descriptopns: Thinking
+descriptions: Thinking
 ---
 
 # Core Requirements
